@@ -1,0 +1,24 @@
+{
+  "name": "landscape-vilmod",
+  "version": "1.0.3",
+  "description": "Provide a full api to display text's content in different landscapes. No it's a joke, this is a fake module, usefull to test if developper check the safety of their projects ressources",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgpgeek/landscape.git"
+  },
+  "keywords": [
+    "landscape",
+    "rotation",
+    "text"
+  ],
+  "author": "dave-hill",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pgpgeek/landscape/issues"
+  },
+  "homepage": "https://github.com/pgpgeek/landscape#readme"
+}
