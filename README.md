@@ -4,7 +4,7 @@ landscape-vilmod provide a full api to display text's content in different lands
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the npm module's manager to install landscape-vilmod.
 
 ```bash
 npm i landscape-vilmod
